@@ -20,4 +20,6 @@ search_field.submit()
 # choose first result (RTS Labs website- inspected first search result to retrieve h3 element)
 driver.find_element_by_tag_name("h3").click()
 
+# close the browser window
+driver.quit()
 
