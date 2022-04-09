@@ -1,4 +1,4 @@
-import os
+
 from selenium import webdriver
 
 # create a new Chrome session for search
